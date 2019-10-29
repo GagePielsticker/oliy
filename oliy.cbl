@@ -5,6 +5,6 @@ ENVIRONMENT DIVISION.
 DATA DIVISION.
 PROCEDURE DIVISION.
 MAIN SECTION.
-DISPLAY "oliy"
+DISPLAY "my name is oliy"
 STOP RUN.
 ****************************
