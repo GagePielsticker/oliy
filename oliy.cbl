@@ -1,0 +1,10 @@
+*****************************
+IDENTIFICATION DIVISION.
+PROGRAM-ID. HELLO.
+ENVIRONMENT DIVISION.
+DATA DIVISION.
+PROCEDURE DIVISION.
+MAIN SECTION.
+DISPLAY "my name is oliy"
+STOP RUN.
+****************************
