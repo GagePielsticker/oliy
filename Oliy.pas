@@ -1,4 +1,4 @@
-program Hello;
+program Oliy;
 begin
   writeln ('Oliy');
   readln;
